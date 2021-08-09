@@ -1,11 +1,9 @@
 [
-	{ "firstname": "Nay",
-		"lastname": "Villalobos",
-		"category": "Front End",
-		"title": "Bootstrap & CSS Preprocessors",
-		"image": "http://barcampdeland.org/images/speaker_rayvillalobos.jpg",
-		"link": "http://iviewsource.com",
-		"bio": "Ray Villalobos is a full-time author and teacher at lynda.com. He is author of the book, Exploring Multimedia for Designers. He has more than 20 years experience in developing and programming multimedia projects. Previously at Entravision Communications, he designed and developed a network of radio station and TV web sites. As a senior producer for Tribune Interactive, he was responsible for designing orlandosentinel.com and for creating immersive multimedia projects and Flash games for the site.",
-		"description": "As responsive design continues to take over the web, front-end developers and designers have turned to preprocessors and layout systems that simplify their workflow. Lynda.com staff author Ray Villalobos will talk about using the Bootstrap framework from Twitter to scaffold and fast track your responsive design. He'll talk about how you can use CodeKit and LESS to put together designs in hours instead of days."
+	{ "category": "CRIME",
+		"headline": "There Were 2 Mass Shootings In Texas Last Week, But Only 1 On TV",
+		"authors": "Melissa Jeltsen",
+		"link": "https://www.huffingtonpost.com/entry/texas-amanda-painter-mass-shooting_us_5b081ab4e4b0802d69caad89",
+	 	"short_description": "She left her husband. He killed their children. Just another day in America.",
+	 	"date": "2018-05-26"
 	}
 ]
